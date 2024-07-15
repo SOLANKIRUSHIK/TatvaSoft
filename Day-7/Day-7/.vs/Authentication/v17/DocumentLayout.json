@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Day-7\\Day-7\\",
+  "WorkspaceRootPath": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|d:\\day-7\\day-7\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|e:\\zzz\\tatvasoft_summerinternship_2024-main\\tatvasoft_summerinternship_2024-main\\day-7\\day-7\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +42,72 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\Model\\User.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Model\\User.cs",
               "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\Model\\User.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Model\\User.cs",
               "RelativeToolTip": "Authentication\\Model\\User.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:27:37.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T12:27:37.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAkwAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:27:37.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T12:27:37.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MissionController.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\MissionController.cs",
               "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\MissionController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAApAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T12:27:37.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AuthContext.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\AuthContext.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\AuthContext.cs",
               "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\AuthContext.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\AuthContext.cs",
               "RelativeToolTip": "Authentication\\AuthContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:27:37.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T12:27:37.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\Program.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Program.cs",
               "RelativeDocumentMoniker": "Authentication\\Program.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\Program.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Program.cs",
               "RelativeToolTip": "Authentication\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:27:37.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T12:27:37.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\appsettings.json",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\appsettings.json",
               "RelativeDocumentMoniker": "Authentication\\appsettings.json",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\appsettings.json",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\appsettings.json",
               "RelativeToolTip": "Authentication\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -119,11 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ValuesController.cs",
-              "DocumentMoniker": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "DocumentMoniker": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
-              "ToolTip": "D:\\Day-7\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "E:\\ZZZ\\TatvaSoft_SummerInternship_2024-main\\TatvaSoft_SummerInternship_2024-main\\Day-7\\Day-7\\Authentication\\Controllers\\ValuesController.cs",
               "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
